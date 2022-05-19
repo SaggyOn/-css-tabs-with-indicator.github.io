@@ -1,0 +1,2 @@
+# -css-tabs-with-indicator.github.io
+Created Pure CSS Tabs with Indicator using only HTML &amp; CSS. In this program [Pure CSS Tabs with Slide Indicator], on the webpage, there is the content box with tabs and each tab have there own content. These tabs have click events or actions that means when you click on the particular tab then there is shown the content of your current or active tab. If you’re feeling difficult to understand what I am saying. You can watch a full video tutorial on this program [Tabs using only HTML &amp; CSS].
